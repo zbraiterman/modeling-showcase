@@ -1,4 +1,8 @@
 # modeling-showcase
+
+## Purpose of this project
+
+
 ## An opportunity to show off your visual representations of website / application / system parts of various sorts
 
 
