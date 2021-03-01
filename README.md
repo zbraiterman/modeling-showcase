@@ -3,7 +3,9 @@
 
 
 ## Instructions
-* Submit a model in the form of a [PlantUML](https://plantuml.com) diagram.
+* Choose a type of model.
+* Create a model in the form of a [PlantUML](https://plantuml.com) diagram of an example of that model type.
+* 
 
 
 ## References
