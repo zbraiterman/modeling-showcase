@@ -9,7 +9,7 @@
 ## Instructions
 * Choose a type of model.
 * Create a model in the form of a [PlantUML](https://plantuml.com) diagram of an example of that model type.
-* Submit to the corresponding directory for that model type
+* Submit as a .png file to the corresponding directory for that model type
 
 
 ## References
