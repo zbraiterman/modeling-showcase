@@ -1,5 +1,5 @@
 # modeling-showcase
-## An opportunity to show off your visual representations of systems of various sorts
+## An opportunity to show off your visual representations of website / application / system parts of various sorts
 
 
 ## Instructions
