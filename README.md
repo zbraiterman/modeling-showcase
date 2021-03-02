@@ -3,11 +3,11 @@
 
 ## Purpose of this project
 
-To encourage fellow technologists in any role at any stage of their careers to learn and share their  various areas of expertise.
+To encourage fellow technologists in any role at any stage of their careers to learn and share their various areas of expertise in the form of Unified Modeling Language (UML) diagrams.
 
 The submission types are based on high-level design concepts, meaning that it’s easy to contribute, and diverse contribution is particularly valuable. 
 
-Contibuting to this project is intended to be an opportunity to show off your visual representations of website / application / system parts of various sorts
+Contibuting to this project is intended to be an opportunity to show off your diagrams.
 
 
 ## Instructions
